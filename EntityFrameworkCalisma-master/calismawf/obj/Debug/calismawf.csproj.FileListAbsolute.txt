@@ -1,0 +1,15 @@
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\calismawf.exe.config
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\calismawf.exe
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\calismawf.pdb
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\EntityFramework.dll
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\EntityFramework.xml
+C:\Users\Hasan\source\repos\calismawf\calismawf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.Form1.resources
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.Properties.Resources.resources
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.csproj.CopyComplete
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.exe
+C:\Users\Hasan\source\repos\calismawf\calismawf\obj\Debug\calismawf.pdb
